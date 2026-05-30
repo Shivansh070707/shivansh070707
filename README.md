@@ -10,4 +10,4 @@ DeFi Protocol Engineer with 4+ years building gas-efficient smart contracts, CDP
 **Security:** Slither · Echidna · Foundry Fuzz  
 **DeFi:** ERC-20/721/1155/4626 · CDP stablecoins · Liquidation bots · Oracle integrations · Cross-chain bridges  
 
-📫 workwithshivansh.ai@gmail.com · [Twitter](https://x.com/0xshivansh) · [LinkedIn](https://linkedin.com/in/0xshivansh)
+📫[Email](workwithshivansh.ai@gmail.com) · [Twitter](https://x.com/0xshivansh) · [LinkedIn](https://linkedin.com/in/0xshivansh)
